@@ -1,0 +1,10 @@
+C:\Users\Yusuf\OneDrive\BADesign\Week 6\Ending Balance 2\bin\Debug\Ending Balance 2.exe.config
+C:\Users\Yusuf\OneDrive\BADesign\Week 6\Ending Balance 2\bin\Debug\Ending Balance 2.exe
+C:\Users\Yusuf\OneDrive\BADesign\Week 6\Ending Balance 2\bin\Debug\Ending Balance 2.pdb
+C:\Users\Yusuf\OneDrive\BADesign\Week 6\Ending Balance 2\obj\Debug\Ending Balance 2.csprojAssemblyReference.cache
+C:\Users\Yusuf\OneDrive\BADesign\Week 6\Ending Balance 2\obj\Debug\Ending_Balance_2.Form1.resources
+C:\Users\Yusuf\OneDrive\BADesign\Week 6\Ending Balance 2\obj\Debug\Ending_Balance_2.Properties.Resources.resources
+C:\Users\Yusuf\OneDrive\BADesign\Week 6\Ending Balance 2\obj\Debug\Ending Balance 2.csproj.GenerateResource.cache
+C:\Users\Yusuf\OneDrive\BADesign\Week 6\Ending Balance 2\obj\Debug\Ending Balance 2.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\OneDrive\BADesign\Week 6\Ending Balance 2\obj\Debug\Ending Balance 2.exe
+C:\Users\Yusuf\OneDrive\BADesign\Week 6\Ending Balance 2\obj\Debug\Ending Balance 2.pdb
